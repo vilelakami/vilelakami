@@ -2,10 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kamisouza&color=blueviolet&style=flat-square)
 
-💡 Criativa por natureza, estrategista por paixão e desenvolvedora por propósito.  
-🚀 Automatizo processos com Python, PyAutoGUI, Excel e criatividade.  
+💡 Criativa por natureza.
+🚀 Automatizo processos com Python, PyAutoGUI e Excel.  
 🎯 Hoje atuo como Analista de Benefícios com foco em tech e dados.  
-📚 Estudante de Ciência da Computação — em constante evolução.
+📚 Já fui estudante de Ciência da Computação — mas hoje, curso Sistemas para Internet.
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
 
@@ -23,14 +23,14 @@
 - Excel avançado + VBA  
 - PyAutoGUI (automação de tela)  
 - Git/GitHub  
-- HTML/CSS (em evolução constante 👾)  
+- HTML/CSS (em evolução 👾)  
 - C#  
 
 ---
 
 ### 🌱 Atualmente aprendendo:
 
-- Estrutura de Dados  
+- Web Design  
 - Desenvolvimento de programas  
 - SQL e banco de dados relacional  
 - Desenvolvimento de bots / entre outros  
@@ -39,8 +39,8 @@
 
 ### 🔎 Fun facts:
 
-- Desmontei meu primeiro PC antes de entrar no técnico  
-- Aprendi a codar automatizando meu trabalho real  
+- Desmontei meu primeiro PC antes de entrar no técnico (do nada)
+- Aprendi a codar automatizando meu trabalho real (atuando no RH)
 - Sim, já criei scripts só pra facilitar a vida da equipe inteira 😅  
 
 ---

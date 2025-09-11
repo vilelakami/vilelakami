@@ -3,6 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kamisouza&color=blueviolet&style=flat-square)
 
 💡 Criativa por natureza.
+
 🚀 Automatizo processos com Python, PyAutoGUI e Excel.  
 🎯 Hoje atuo como Analista de Benefícios com foco em tech e dados.  
 📚 Já fui estudante de Ciência da Computação — mas hoje, curso Sistemas para Internet.

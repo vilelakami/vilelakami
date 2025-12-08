@@ -2,10 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kamisouza&color=blueviolet&style=flat-square)
 
-💡 Criativa por natureza.
+💡 Hiperfoco em aprender.
 
 🚀 Automatizo processos com Python, PyAutoGUI e Excel.  
-🎯 Hoje atuo como Analista de Benefícios com foco em tech e dados.  
+🎯 Já atuei como Analista de Benefícios com foco em tech e dados.  
 📚 Já fui estudante de Ciência da Computação — mas hoje, curso Sistemas para Internet.
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
@@ -42,7 +42,7 @@
 
 - Desmontei meu primeiro PC antes de entrar no técnico (do nada)
 - Aprendi a codar automatizando meu trabalho real (atuando no RH)
-- Sim, já criei scripts só pra facilitar a vida da equipe inteira 😅  
+- Sim, já criei scripts só pra facilitar a minha vida no trabalho  
 
 ---
 
